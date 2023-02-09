@@ -14,4 +14,4 @@ function onOpen() {
 }
 ```
 - Save and execute
-- After authorizing, go back to your spreadsheet and refresh the page to see your new tab
+- After authorizing, go back to your spreadsheet and refresh the page to see your new tab.
